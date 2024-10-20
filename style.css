@@ -1,0 +1,30 @@
+html {
+    font-family: 'Roboto', 'Arial', 'Times New Roman';
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #004b23;
+    padding: 20px;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+    margin: 0px;
+}
+
+li {
+    list-style: none;
+    color: #eca005;
+}
+
+.title {
+    font-family: Amarante, 'Roboto', 'Georgia';
+    font-size: 50px;
+    color: #ffd700;
+}
+
+
